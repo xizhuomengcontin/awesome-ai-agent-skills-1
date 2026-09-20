@@ -14,6 +14,7 @@ A community-shared collection of reusable skills for AI coding agents. Works wit
 - Run `npm run sync` after changing skills or plugin grouping, then run `npm run validate`.
 
 ## What are Skills?
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 Skills are self-contained instruction sets that teach AI agents specific workflows, guidelines, or capabilities. Each skill includes:
 - A `SKILL.md` with metadata and instructions
